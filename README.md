@@ -50,7 +50,7 @@ Usando **Python + Selenium**, o script lê uma lista de palavras de um arquivo J
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/soletra-bot.git
+   git clone https://github.com/ViniciusBerns/Soletra_bot.git
    cd Soletra_bot
 
 
